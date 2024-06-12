@@ -29,6 +29,7 @@ Versão Desktop
 
 
 Versão Mobile
+
 ![versao-mobile](https://github.com/raynnenogueira/projeto-stockinsight/assets/85042179/9f9aea9c-b29c-4609-8fb1-9cb9331b9ef7)
 
 
